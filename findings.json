@@ -1,0 +1,15 @@
+{
+  "total_transactions": 284807,
+  "fraud_transactions": 492,
+  "legitimate_transactions": 284315,
+  "fraud_percentage": 0.1727,
+  "total_fraud_amount": 60127.97,
+  "avg_fraud_amount": 122.21,
+  "avg_legit_amount": 88.29,
+  "logistic_regression_auc": 0.9722,
+  "random_forest_auc": 0.9766,
+  "random_forest_precision": 0.8265,
+  "random_forest_recall": 0.8265,
+  "frauds_detected": 81,
+  "frauds_total": 98
+}
